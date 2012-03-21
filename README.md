@@ -23,3 +23,6 @@
 ### Resources
 
 - [socket.io repo](https://github.com/learnboost/socket.io)
+- [socket.io client repo](https://github.com/LearnBoost/socket.io-client)
+- [Hover demo repo](https://github.com/kevinohara80/socketio-hover-demo)
+- [Hover demo live on Heroku](http://sharp-flower-2982.herokuapp.com/)
