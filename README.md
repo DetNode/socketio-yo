@@ -19,3 +19,7 @@
 8. Configure and initiate a connection from the client in socketio-yo.js
 
 9. Play
+
+### Resources
+
+- [socket.io repo](https://github.com/learnboost/socket.io)
